@@ -17,7 +17,7 @@ or ./testapp < input.500 to test results of a tree with 500 nodes
   
 The testapp program allows you to test the basic operations of the AVL tree, including insertion, deletion, and searching. The program will prompt you for input and display the results of each operation. There are also addtional operations that allow the user test manual rotations. 
 
-<h2>Note>/h2>
+<h2>Note</h2>
   
 This program is for demonstration and testing purposes only. It is not production ready.
   
