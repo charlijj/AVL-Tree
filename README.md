@@ -6,10 +6,10 @@ This GitHub repository contains a C++ implementation of an AVL tree, a self-bala
 
 To use this implementation, clone the repository and use the makefile to generate an executable called testapp. Once the executable is generated, you can run testapp to test the implementation.
 
-git clone https://github.com/charlijj/AVL-Tree
-cd AVL-tree-cpp
-make
-./testapp 
+git clone https://github.com/charlijj/AVL-Tree </br>
+cd AVL-tree-cpp </br>
+make </br>
+./testapp </br>
 
 or ./testapp < input.500 to test results of a tree with 500 nodes
 
