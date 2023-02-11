@@ -11,6 +11,20 @@ cd AVL-tree-cpp </br>
 make </br>
 ./testapp </br>
 
+Menu:
+
+   I to insert a new element,
+   F to find an element with given key and print its data,
+   R to remove an element with given key,
+   P to print all elements,
+   D to for debug data display,
+   H for help,
+   W for left-rotation,
+   X for right-rotation,
+   Y for left-right double rotation,
+   Z for right-left double rotation,
+   Q to quit.
+
 or ./testapp < input.500 to test results of a tree with 500 nodes
 
 <h2>Usage</h2>
