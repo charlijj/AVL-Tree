@@ -24,7 +24,7 @@ int main()
 
 char getcommand()
 {
-   cout << "Enter your command choice (D, P, H, I, Q, R, W, X, Y, Z or S)" << endl;
+   cout << "Enter your command choice (D, P, H, I, Q, R, W, X, Y, or Z)" << endl;
    char cmd;
    cin >> cmd;
    cmd = toupper(cmd);
